@@ -1,0 +1,10 @@
+com\herokuapp\booker\bookinginfo\BookingPatchRequest.class
+com\herokuapp\booker\testbase\TestBase.class
+com\herokuapp\booker\bookinginfo\BookingGetRequest.class
+com\herokuapp\booker\bookinginfo\BookingPutRequest.class
+com\herokuapp\booker\bookinginfo\BookingCrudTest.class
+com\herokuapp\booker\AppTest.class
+com\herokuapp\booker\bookinginfo\BookingDeleteRequest.class
+com\herokuapp\booker\bookinginfo\BookingPostRequest.class
+com\herokuapp\booker\authinfo\CreatingAuthenticationToken.class
+com\herokuapp\booker\testbase\TestBaseAuth.class

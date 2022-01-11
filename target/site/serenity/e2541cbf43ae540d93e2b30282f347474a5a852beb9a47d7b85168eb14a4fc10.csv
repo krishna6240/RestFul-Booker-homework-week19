@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Booking crud test","Extracting a List of Ids before creating new record","SUCCESS","2022-01-11T21:02:22.893Z[Europe/London]","0.0","0.73"
+"Booking crud test","Creating a new booking using POST method","SUCCESS","2022-01-11T21:02:23.660Z[Europe/London]","0.0","0.63"
+"Booking crud test","Extracting ID and Finding the new booking by id to verify if it exists in the application","SUCCESS","2022-01-11T21:02:24.298Z[Europe/London]","0.0","1.23"
+"Booking crud test","Updating the newly created record with ID and verifying it by extracting id with updated firstname as query parameter","SUCCESS","2022-01-11T21:02:25.533Z[Europe/London]","0.0","1.63"
+"Booking crud test","Delete the newly created record with ID","SUCCESS","2022-01-11T21:02:27.161Z[Europe/London]","0.0","0.94"
